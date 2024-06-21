@@ -1,0 +1,11 @@
+.form{
+    display: block;
+    margin: 64px auto;
+    max-width: 250px;
+}
+.btn{
+    display: block;
+    text-align: center;
+    margin-top: 16px;
+    width: 100%;
+}
